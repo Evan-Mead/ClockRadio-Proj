@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clock_Radio", "Clock_Radio\Clock_Radio.csproj", "{D13315DB-D21F-4791-A4F2-307304D585A9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9EA76CD2-E15F-40C3-8F4C-5352D7D0D72A}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D13315DB-D21F-4791-A4F2-307304D585A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D13315DB-D21F-4791-A4F2-307304D585A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D13315DB-D21F-4791-A4F2-307304D585A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D13315DB-D21F-4791-A4F2-307304D585A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70400B94-C4E5-4CFB-B9E8-C1CDCB6EAB4D}
+	EndGlobalSection
+EndGlobal
